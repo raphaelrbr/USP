@@ -1,0 +1,18 @@
+BCC 2018 - EP3
+
+Nome: Raphael Ribeiro da Costa e Silva
+NUSP: 10281601
+
+Para a implementação deste EP, utilizei o conceito de resto de divisão por 2.
+Se um número deixa resto 1 ao ser dividido por 2, então este número é ímpar.
+Caso contrário, o número é par. Isto foi implementado utilizando o operador % da linguagem
+C.
+Ao testar a conjectura para números em um intervalo, alguns calculos são repetidos.
+Para resolver isso, utilizei um vetor para guardar os calculos já realizados. Arbitrariamente,
+este vetor possui um milhão de possíveis valores. 
+Para lidar com valores grandes, utilizei o tipo de dado long int para lidar com valores de 
+entre, pelo menos, -2147483647 a +2147483647. Nao utilizei um dado do tipo unsigned pois o enunciado
+não restringe a função de Collatz para números negativos. 
+
+O programa foi testado para o intervalo 1 a 1000000 (dez milhões), apresentando o valor
+correto para o número 1000000.
