@@ -1,0 +1,225 @@
+"Você conecta a máquina ao professor Gubi e nele implanta a idéia
+de aprovar todos os alunos!. Você espera que funcione...
+
+
+
+
+Uma semana depois...
+
+
+
+
+O Semestre está encerrado, você entra no JupiterWeb para ver suas notas.
+O que? Você foi aprovado! Isso é impossível... Quer dizer, isso é possível!
+Você conseguiu invadir a mente do Professor Gubi.
+
+
+
+
+Será que a Jennifer está de volta?
+
+Você se move para Saguao do IME.
+
+
+
+LÁ ESTÁ ELA! A JENNIFER VOLTOU!!!!
+
+
+As pessoas ao seu redor estão animadas, cheias de vigor e bebendo seu delicioso
+café novamente. 
+Agora os imeanos tem o seu café jenniferiano garantindo para mantê-los acordados,
+programando e demonstrando teoremas a todo vapor!
+
+
+Você encerrou o jogo. 
+
+^Introdução
+
+"O Sequestro de Jennifer"
+Créditos: Thiago Pena, Raphael Ribeiro, Paulo Silva
+
+Você está chegando para mais um dia de aula no Instituto de Matemática e Estatística da USP, o IME.
+Semana que vem já serão as provas finais e você está determinado a estudar bastante, pois precisa
+de notas boas e ainda tem muito conteúdo para aprender. 
+Você gostaria muito de um café agora, mas
+Jennifer, a maquina de café do IME, foi sequestrada e junto a ela foi deixado um bilhete que diz:
+
+“Vamos tirar de vocês Imeanos a maior dádiva que já foi dada aos matemáticos, cientistas
+e
+programadores. O café! Nós demos um sumiço na Jennifer. Ela só voltará se a seguinte
+condição
+for cumprida: todos os alunos devem ser aprovados na matéria do Gubi.
+PS: é verdade esse bilete”
+
+Para salvar o IME do Caos, você precisa encontrar a Fantástica Máquina dos Sonhos,
+uma maquina capaz de invadir os sonhos de uma pessoa em estado de sono e implantar nela uma idéia, e 
+usá-la no professor Gubi para que ele aprove todos os alunos. 
+
+Você será capaz disso?
+
+
+DIGITE AJUDA PARA OBTER AJUDA
+^o^
+^IME - Lado Externo^
+^Você está no lado externo do IME
+O professor Odilon pode ser visto na praça ao lado, conversando com um aluno.
+
+Há saídas para: 
+	Estacionamento
+	Saguao do IME^
+^Você vê os prédios do instituto de matemática e estatística. A sua frente está o bloco A, local da biblioteca e departamento de estatística e computação. 
+A sua esquerda está o bloco C, Centro de Competência em Software Livre. A sua direita está a praça, onde você observa o professor Odilon
+parado conversando com um aluno. Atrás de você está o bloco B, onde ocorrem as aulas da graduação.
+
+Há saídas para: 
+	Estacionamento
+	Saguao do IME^
+^0^
+^o^
+^Saguao do IME^
+^Este é o local onde você tem suas aulas. Não se esqueça da aula
+do Professor Gubi às 16:00
+
+Há saídas para: 
+	IME - Lado Externo (fora)
+	Sala de Ferramentas
+	Banheiro
+	Sala de Aula
+	Lanchonete do IME^
+^O saguao do IME é um lugar antigo e não muito agradável. Ao seu redor,
+há pessoas em prantos e morrendo de sono devido a falta de café.
+É mais uma quinta feira, o dia da semana em que você tem 4 aulas.
+A parte mais difícil de hoje, será se manter acordado até a última aula: Técnicas de Programação I
+. Não se esqueça que a prova é na semana que vem e você não sabe nada de Assembly, Bash,
+ou qualquer outra coisa que se ensine nesse matéria.
+
+Há saídas para: 
+	IME - Lado Externo (fora)
+	Sala de Ferramentas
+	Banheiro
+	Sala de Aula
+	Lanchonete do IME^
+^0^
+^a^
+^Lanchonete^
+^Você está na lanchonete do IME. Existe uma fila enorme para comprar algo.
+
+Há saída para: 
+	Saguao do IME^
+^Você está na lanchonete do IME. Ao seu redor tem pessoas bebendo café de má qualidade
+vendido aqui, é possível ver choros e rostos abalados. O acontecimento recente atingiu a todos de
+supresa. Existe uma fila gigantesca para comprar algo.
+
+Há saída para: 
+	Saguao do IME^
+^0^
+^a^
+^Sala de Aula^
+^Você está na sala de aula do bloco B.
+
+Há saída para: 
+	Saguao do IME^
+^Você está na sala de aula do bloco B. Na verdade, você nem sabe porque ainda vem pra essa aula,
+você não aprenderá nada mesmo
+
+Há saída para: 
+	Saguao do IME^
+^0^
+^o^
+^banheiro^
+^É apenas um banheiro
+
+Há saída para: 
+	Saguao do IME^
+^O banheiro do bloco B é muito pior que o banheiro do bloco C, mas ainda funciona.
+
+Há saída para: 
+	Saguao do IME^
+^0^
+^um^
+^detergente^
+^É um detergente^
+^Você observa o detergente do banheiro do bloco B^
+^1^
+^o^
+^estacionamento^
+^É um estacionamento como qualquer outro, com carros e tudo mais... 
+
+Há saída para: 
+	IME - Lado Externo (fora)^
+^O estacionamento do IME é como qualquer outro estacionamento, há alguns carros,
+motos, e bicicletas estacionados...
+
+Há saída para: 
+	IME - Lado Externo (fora)^
+^0^
+^um^
+^container^
+^È um container. O que será que há dentro?^
+^È um container grande feito de metal, levemente enferrujado. 
+O que será que há dentro dele^
+^1^
+^algumas^
+^mesas^
+^São mesas de madeira^
+^São algumas mesas de madeira^
+^1^
+^algumas^
+^cadeiras^
+^São algumas cadeiras^
+^São apenas cadeiras^
+^1^
+^um^
+^banco^
+^É um banco de madeira^
+^É um banco de madeira^
+^1^
+^algumas^
+^lousas^
+^São lousas feitas de madeira onde os estudantes normalmente escrevem coisas nelas^
+^São apenas lousas de madeira^
+^0^
+^uma^
+^lanterna^
+^É uma lanterna^
+^É uma lanterna^
+^1^
+^um^
+^Kit de Ferramentas^
+^É um kit de ferramentas úteis para consertar algo^
+^É um kit de ferramentas^
+^1^
+^a^
+^Sala de Ferramentas^
+^Essa sala está uma bagunça, há um monte de coisas.
+
+Há saída para: 
+	Saguao do IME^
+^Você nem sabia que existia uma sala de ferramentas no IME. 
+Talvez você não possa entrar aqui, há um monte de coisas.
+
+Há saída para: 
+	Saguao do IME^
+^0^
+^o^
+^jogador^
+^Você é um estudante do IME^
+^Você é um estudante do IME^
+^1^
+^a^
+^Fantastica Maquina dos Sonhos^
+^Esta Fantastica Maquina dos Sonhos permite acessar a mente de qualquer pessoa, 
+desde que ela esteja dormindo^
+^Esta maquina permite entrar nos sonhos das pessoas^
+^1^
+^o^
+^Professor Gubi^
+^O Professor Gubi possui dois doutorados e é um dos melhores professores do curso de 
+ciência da computação na USP^
+^É o Professor Gubi, você já conhece ele^
+^1^
+^um^
+^Cafe de Ma Qualidade^
+^Este cafe nao parece funcionar^
+^Este cafe nao parece funcionar^
+^1^
